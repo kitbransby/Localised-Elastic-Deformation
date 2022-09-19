@@ -7,7 +7,7 @@ Particularly applicable for medical image segmentation tasks where general Elast
 
 ## Usage:
 
-Simply run for default config on example data 
+Simply run the command below for default config on example data 
 ```python main.py```
 
 
